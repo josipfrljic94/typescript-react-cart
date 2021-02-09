@@ -7,7 +7,8 @@ margin:40px;
 export const StyledButton= styled(IconButton)`
 position:fixed;
 z-index: 100;
-left: calc(100% - 15px);
+/* left: calc(100% - 15px); */
+right:0;
 top:20px;
 
 `
